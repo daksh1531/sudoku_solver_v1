@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sudoku
+comment1.params=board
+comment1.target=Sudoku(int[][])
+comment2.params=row\ number
+comment2.target=boolean\ isInRow(int,\ int)
+comment3.params=col\ number
+comment3.target=boolean\ isInCol(int,\ int)
+comment4.params=row\ col\ number
+comment4.target=boolean\ isInBox(int,\ int,\ int)
+comment5.params=row\ col\ number
+comment5.target=boolean\ isOk(int,\ int,\ int)
+comment6.params=
+comment6.target=boolean\ solve()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
